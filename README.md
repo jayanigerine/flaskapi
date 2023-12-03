@@ -1,6 +1,7 @@
 ### JSPR-Techies initial backend code.
 
-
+Team members: Raksha, Surya, Pallavi & Jayani.
+University of Michigan, Dearborn
 
 
 
